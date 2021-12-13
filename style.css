@@ -120,21 +120,7 @@ section{
 .signup_body .signup_form .birth_date{
     margin-top: 5px;
 }
-.signup_body .signup_form .month,
-.signup_body .signup_form .day,
-.signup_body .signup_form .year{
-    height: 28px;
-}
-.signup_body .signup_form .day,
-.signup_body .signup_form .year{
-    margin-left: -5px;
-}
-.signup_body .signup_form .brth_hint{
-    font-size: 11px;
-    padding-left: 170px;
-    margin-top: -28px;
-    width: 150px;
-}
+
 .signup_body .signup_form a{
     text-decoration: none;
 }
